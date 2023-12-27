@@ -7,7 +7,7 @@ FreeLancer
 * 🌍  I'm based in Ben Tre
 * ✉️  You can contact me at [huutinh0216@gmail.com](mailto:huutinh0216@gmail.com)
 * 🚀  I'm currently working on [School](http://https://edu.viettel.vn/bte-binhdai-thcsvangquoi)
-* 🧠  I'm learning WPF, python, C++
+* 🧠  I'm learning WPF, python, C#
 * 🤝  I'm open to collaborating on Discord Bot
 * ⚡  qpneruy
 
