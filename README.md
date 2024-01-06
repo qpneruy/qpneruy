@@ -8,9 +8,9 @@ FreeLancer
 - 🔭 I’m currently working on [My school](http://https//edu.viettel.vn/bte-binhdai-thcsvangquoi)  
 - 🧠  I'm learning WPF, python, C#  
 - 🤝  I'm open to collaborating on Discord Bot  
-- ⚡ Fun fact: i never use auto completion  
 - 🌍  I'm based in Ben Tre
-- ✉️  You can contact me at huutinh0216@gmail.com  
+- ✉️  You can contact me at huutinh0216@gmail.com
+- ⚡ Fun fact: i never use auto completion  
 
 ### Skills
 
