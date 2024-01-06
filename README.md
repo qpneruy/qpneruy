@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FreeLancer
 -----------------
 
-* 🌍  I'm based in Ben Tre
-* ✉️  You can contact me at [huutinh0216@gmail.com](mailto:huutinh0216@gmail.com)
-* 🚀  I'm currently working on [School](http://https://edu.viettel.vn/bte-binhdai-thcsvangquoi)
-* 🧠  I'm learning WPF, python, C#
-* 🤝  I'm open to collaborating on Discord Bot
-* ⚡  qpneruy
+
+- 🔭 I’m currently working on [My school](http://https//edu.viettel.vn/bte-binhdai-thcsvangquoi)  
+- 🧠  I'm learning WPF, python, C#  
+- 🤝  I'm open to collaborating on Discord Bot  
+- ⚡ Fun fact: i never use auto completion  
+- 🌍  I'm based in Ben Tre
+- ✉️  You can contact me at huutinh0216@gmail.com  
 
 ### Skills
 
@@ -21,7 +22,7 @@ FreeLancer
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/qpneruy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/hhuu.tinh679/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Tinhdev061" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://discord.com/users/qpneruy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/hhuu.tinh679/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Tinhdev061" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /><a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>   </picture> </a></p>
 
 ### Badges
 
@@ -34,23 +35,6 @@ FreeLancer
 ### Hello Hey 👋, I'm Tinh an freelance developer 👨‍💻  
   
 
-- 🔭 I’m currently working on [My school](http://https//edu.viettel.vn/bte-binhdai-thcsvangquoi)  
-  
-
-- 🧠  I'm learning WPF, python, C#  
-  
-
-- 🤝  I'm open to collaborating on Discord Bot  
-  
-
-- ⚡ Fun fact: i never use auto completion  
-  
-
-- 🌍  I'm based in Ben Tre
-  
-  
-
-- ✉️  You can contact me at huutinh0216@gmail.com  
   
 
 <br/>  
