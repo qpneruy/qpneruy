@@ -22,7 +22,7 @@ FreeLancer
 
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpneruy&exclude_repo=qpneruy-Dis,LimeIDE,FlapyBirdSDL,TicTacToev2,TimerPlugin)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpneruy&exclude_repo=qpneruy-Dis,LimeIDE,FlapyBirdSDL,TicTacToev2,[TimerPlugin](https://github.com/qpneruy/TimerPlugin))
 
 
 ## Github Stats  
