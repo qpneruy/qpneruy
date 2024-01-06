@@ -20,15 +20,7 @@ FreeLancer
 </p>
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/qpneruy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/hhuu.tinh679" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
  
 
 
@@ -39,3 +31,12 @@ FreeLancer
 
 <a href="https://github.com/qpneruy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpneruy&langs_count=10&title_color=0891b2&text_color=1C1917&icon_color=0891b2&bg_color=EEEEEE&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/qpneruy" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/hhuu.tinh679" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
