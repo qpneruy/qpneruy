@@ -22,7 +22,7 @@ FreeLancer
 
 
 
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpneruy&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
 ## Github Stats  
