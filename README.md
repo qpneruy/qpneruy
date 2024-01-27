@@ -10,7 +10,6 @@ FreeLancer
 - 🤝  I'm open to collaborating on Discord Bot  
 - 🌍  I'm based in Ben Tre
 - ✉️  You can contact me at huutinh0216@gmail.com
-- ⚡ Fun fact: i never use auto completion  
 
 ### Skills
 
