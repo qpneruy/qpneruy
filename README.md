@@ -6,8 +6,8 @@ FreeLancer
 
 
 - 🔭 I’m currently working on [My school](http://https//edu.viettel.vn/bte-binhdai-thcsvangquoi)  
-- 🧠  I'm learning WPF, python, C#  
-- 🤝  I'm open to collaborating on Discord Bot  
+- 🧠  I'm learning Java, python, C#  
+- 🤝  I'm open to collaborating on Minecraft Plugin
 - 🌍  I'm based in Ben Tre
 - ✉️  You can contact me at huutinh0216@gmail.com
 
